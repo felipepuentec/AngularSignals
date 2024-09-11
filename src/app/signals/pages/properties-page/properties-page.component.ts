@@ -59,7 +59,6 @@ export class PropertiesPageComponent {
           current.id = Number(value);
           break;
       }
-
       return current;
     });
   }
